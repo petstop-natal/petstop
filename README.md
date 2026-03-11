@@ -1,61 +1,62 @@
-# 🎈 Dona Beta Festas - Site Institucional
-Este é o repositório do site oficial da Dona Beta Festas, desenvolvido para apresentar o catálogo de decorações, serviços de pegue-e-monte e facilitar o contato de clientes para a reserva de eventos e festas temáticas.
+🐾 Pet Stop - Site Institucional
+Este é o repositório do site oficial da Pet Stop, a sua casa Pet em Natal/RN. O projeto foi desenvolvido para apresentar o catálogo de produtos, serviços e facilitar o contato de clientes para cuidados com seus animais de estimação.
 
-# 🚀 Tecnologias Utilizadas
-O projeto foi construído focando em uma experiência visual rica, performance e total responsividade para dispositivos móveis:
+🚀 Tecnologias Utilizadas
+O projeto foi construído focando em uma experiência visual limpa, performance e total responsividade para dispositivos móveis:
 
 HTML5: Estrutura semântica para melhor SEO e acessibilidade.
 
-CSS3: Estilização personalizada com foco em uma identidade visual festiva, utilizando Flexbox e Grid.
+CSS3: Estilização personalizada com foco em uma identidade visual moderna para o setor pet.
 
-JavaScript (Vanilla): Lógica para navegação mobile, filtros de categorias de festas e animações de scroll.
+JavaScript (Vanilla): Lógica para navegação, interação com elementos da interface e integração de links.
 
-Boxicons/FontAwesome: Ícones para redes sociais e diferenciais do serviço.
+SVG: Utilização de vetores para logotipos e ícones, garantindo nitidez em qualquer resolução.
 
-Google Fonts: Tipografia selecionada para transmitir alegria e profissionalismo.
+Google Fonts: Tipografia selecionada para transmitir acolhimento e profissionalismo.
 
-# 📂 Estrutura do Projeto
+📂 Estrutura do Projeto
 O site é organizado de forma modular para facilitar a manutenção:
 
-/: Página inicial (Home).
+/: Página inicial (Home) com destaques e apresentação.
 
-/about/: Informações detalhadas sobre a Dona Beta Festas.
+/sobre/: História e missão da Pet Stop.
 
-/produtos/: Galeria dos meus principais produtos disponíveis.
+/produtos/: Galeria de mimos e produtos disponíveis em estoque.
 
-/contato/: Informações de contato e endereço.
+/contato/: Informações de localização e canais de atendimento.
 
-/assets/: Imagens, logos e recursos visuais.
+/assets/: Imagens, logos (SVG) e recursos visuais.
 
-# ✨ Funcionalidades
-Galeria Interativa: Visualização detalhada dos kits de decoração.
+✨ Funcionalidades
+Catálogo de Produtos: Visualização dos itens disponíveis para cães e gatos.
 
-Design Responsivo: Experiência otimizada, já que a maioria dos orçamentos é feita via dispositivos móveis.
+Design Responsivo: Interface adaptada para smartphones, tablets e desktops.
 
-Botão Flutuante de WhatsApp: Facilita a conversão imediata de visitantes em clientes.
+Integração com WhatsApp: Botões de ação direta para consulta de disponibilidade e suporte ao cliente.
 
-SEO Local: Estruturado para ser encontrado por clientes que buscam decoração de festas na região.
+Informações de Localização: Endereço físico detalhado em Ponta Negra, Natal/RN.
 
-# 🛠️ Como executar localmente
+🛠️ Como executar localmente
 Clone este repositório:
 
 Bash
-
-git clone https://github.com/donabeta/donabeta.git
+git clone https://github.com/petstop-natal/petstop
 Navegue até a pasta do projeto.
 
 Abra o arquivo index.html em seu navegador de preferência.
 
 📧 Contato
-Website Oficial: donabetafestas.com
+Endereço: Av. Praia de Ponta Negra, 8908 - Ponta Negra, Natal - RN.
 
-Instagram: @donabetafestas
+Instagram: @petstoprn
+
+WhatsApp: (84) 98191-1313
 
 Desenvolvido por: BricioDev
 
-© 2026 Dona Beta Festas. Todos os direitos reservados.
+© 2026 Pet Stop™. Todos os direitos reservados.
 
-# Screenshot
+Screenshot
 Aqui está uma captura de tela do projeto:
 
 ![screenshot](assets/screenshot.png)
